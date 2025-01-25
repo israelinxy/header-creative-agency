@@ -5,7 +5,7 @@ Este proyecto presenta un Header de una agencia de diseño web preparado para un
 ---
 
 <div align="center">
-  <img src="creative-agency.png" alt="Header de una agencia de diseño" width="55%"/>
+  <img src="creative-agency.png" alt="Header de una agencia de diseño" width="80%"/>
 </div>
 
 
